@@ -4,6 +4,9 @@
 **武道学研究**
 - https://www.jstage.jst.go.jp/browse/budo/-char/ja
 
+## 準備運動
+[準備運動について](warming_up.md)
+
 ## 素振り
 [素振りメニューの効果について](suburi.md)
 
