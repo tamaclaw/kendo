@@ -4,6 +4,9 @@
 **武道学研究**
 - https://www.jstage.jst.go.jp/browse/budo/-char/ja
 
+## 指導方針
+[指導方針について]()
+
 ## 準備運動
 [準備運動について](warming_up.md)
 
